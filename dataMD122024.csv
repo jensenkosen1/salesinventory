@@ -1,0 +1,54 @@
+No,TANGGAL,TOKO / INV,JENIS BARANG,TOTAL (LBR),HARGA JUAL PER LBR,TOTAL NILAI,Metode,Lokasi
+1,03-12-24,Panglong Jasa Mulia,Pvc Board 3mm,3,105000,315000,Cash,Bilal
+2,03-12-24,Panglong Jasa Mulia,Pvc Board 5mm,7,160000,1120000,Cash,Bilal
+3,04-12-24,Cemara Jaya,Hpl Putih Doff,50,85000,4250000,Piutang,Bilal
+4,04-12-24,Cemara Jaya,Hpl Putih Kilat,46,85000,3910000,Piutang,Bilal
+5,06-12-24,Panglong Jasa Mulia,Pvc Board 5mm,2,160000,320000,Cash,Bilal
+6,09-12-24,Bapak Aldy,Kerawangan ANT 10,14,34000,476000,Cash,Bilal
+7,10-12-24,Bapak reyhan interior,Pvc Board 3mm,3,105000,315000,Cash,Bilal
+8,10-12-24,Bapak reyhan interior,Hpl Putih Marmer,3,150000,450000,Cash,Bilal
+9,10-12-24,Toko Besi Sumber jaya ,BB kilat 18mm 1x,32,284000,9088000,Cash,Bilal
+10,11-12-24,Panglong Jasa Mulia,Pvc Board 12mm,2,355000,710000,Cash,Bilal
+11,18-12-24,Bapak eddy,Pvc Board 12mm Grey,1,675000,675000,Cash,Bilal
+12,27-12-24,Bapak Aldy,Kerawangan ANT 10,20,33000,660000,Cash,Bilal
+13,27-12-24,Cemara Jaya,Pvc Board 12mm,10,323000,3230000,Piutang,Bilal
+14,28-12-24,Bapak Chandra,Pvc Board 18mm,2,468000,936000,Cash,Bilal
+15,02-12-24,Cemara Jaya,BB Doff 18mm,64,275000,17600000,Piutang,Gudang 888
+16,02-12-24,Toko Besi Sumber jaya ,BB kilat 18mm 1x,50,284000,14200000,Cash,Gudang AA5
+17,02-12-24,Giat Profil,BB kilat 18mm 2x,20,351000,7020000,Piutang,Gudang AA5
+18,04-12-24,Tetap Jaya,Poly doff harimau 3mm,150,118000,17700000,Piutang,Gudang AA5
+19,05-12-24,Aneka Rezeki,Pvc Board 5mm,50,143000,7150000,Piutang,Gudang AA5
+20,05-12-24,Aneka Rezeki,Pvc Board 18mm,50,461000,23050000,Piutang,Gudang AA5
+21,05-12-24,Cemara Jaya,Pvc Board 8mm,30,225000,6750000,Piutang,Gudang AA5
+22,05-12-24,Cemara Jaya,Pvc Board 9mm,20,251000,5020000,Piutang,Gudang AA5
+23,05-12-24,Cemara Jaya,Pvc Board 12mm,20,323000,6460000,Piutang,Gudang AA5
+24,05-12-24,Cemara Jaya,Pvc Board 18mm,20,461000,9220000,Piutang,Gudang AA5
+25,09-12-24,Cemara Jaya,Ply UT 12mm Kayu Alam,120,186000,22320000,Piutang,Gudang AA5
+26,10-12-24,Toko Besi Sumber jaya ,BB kilat 18mm 1x,18,284000,5112000,Cash,Gudang AA5
+27,12-12-24,Giat Profil,BB kilat 18mm 1x,30,279000,8370000,Piutang,Gudang AA5
+28,13-12-24,Medan Jaya,BB kilat 18mm 1x,10,285000,2850000,Piutang,Gudang AA5
+29,14-12-24,Bapak Andi,Pvc Board 3mm,50,92000,4600000,Cash,Gudang AA5
+30,14-12-24,Bapak Andi,Pvc Board 9mm,8,251000,2008000,Cash,Gudang AA5
+31,14-12-24,Bapak Andi,Pvc Board 12mm,8,324000,2592000,Cash,Gudang AA5
+32,17-12-24,Tetap Jaya,Poly doff harimau 3mm,150,118000,17700000,Piutang,Gudang AA5
+33,20-12-24,Hari Indah,Poly doff Bangau 3mm,50,128000,6400000,Piutang,Gudang AA5
+34,20-12-24,Cemara Jaya,Pvc Board 8mm,50,225000,11250000,Piutang,Gudang AA5
+35,23-12-24,Cemara Jaya,Pvc Board 5mm,20,143000,2860000,Piutang,Gudang AA5
+36,23-12-24,Cemara Jaya,Pvc Board 8mm,20,225000,4500000,Piutang,Gudang AA5
+37,23-12-24,Cemara Jaya,Pvc Board 12mm,20,323000,6460000,Piutang,Gudang AA5
+38,24-12-24,Medan Jaya,BB kilat 18mm 1x,5,285000,1425000,Piutang,Gudang AA5
+39,24-12-24,Medan Jaya,BB kilat 18mm 2x,10,359000,3590000,Piutang,Gudang AA5
+40,26-12-24,Toko Besi Sumber jaya ,BB kilat 18mm 1x,50,284000,14200000,Cash,Gudang AA5
+41,26-12-24,Toko Besi Sumber jaya ,BB kilat 18mm 2x,20,357000,7140000,Cash,Gudang AA5
+42,27-12-24,Cemara Jaya,Pvc Board 18mm,30,461000,13830000,Piutang,Gudang AA5
+43,27-12-24,Cemara Jaya,Pvc Board 12mm,17,323000,5491000,Piutang,Gudang AA5
+44,27-12-24,Cemara Jaya,Pvc Board 8mm,25,225000,5625000,Piutang,Gudang AA5
+45,27-12-24,Bapak Sayyed,BB kilat 18mm 1x,100,280000,28000000,Cash,Gudang AA5
+46,27-12-24,Bapak Suhendri,Pvc Board 5mm,15,146000,2190000,Cash,Gudang AA5
+47,27-12-24,Cemara Jaya,Poly Kilat Diamond 3mm,200,111000,22200000,Piutang,Gudang AA5
+48,28-12-24,Cemara Jaya,Ply UT 8mm Kayu Alam,40,117000,4680000,Piutang,Gudang AA5
+49,28-12-24,Cemara Jaya,Ply UT 12mm Kayu Alam,80,186000,14880000,Piutang,Gudang AA5
+50,28-12-24,Bapak Sayyed,Poly Kilat Harimau 3mm,50,120000,6000000,Cash,Gudang AA5
+51,30-12-24,Bapak Arianto,Pvc Board 5mm,15,146000,2190000,Cash,Gudang AA5
+52,30-12-24,Bapak Arianto,Pvc Board 8mm,15,228000,3420000,Cash,Gudang AA5
+53,30-12-24,Bapak Arianto,Pvc Board 18mm,20,468000,9360000,Cash,Gudang AA5

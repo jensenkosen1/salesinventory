@@ -1,0 +1,50 @@
+No,TANGGAL,TOKO / INV,JENIS BARANG,TOTAL (LBR),HARGA JUAL PER LBR,TOTAL NILAI,Metode Pembayaran,Lokasi
+1,4/11/2024,Bapak Arifin,Pvc Board 3mm,1,105000,105000,Cash,Bilal
+2,4/11/2024,Panglong Jasa Mulia,Pvc Board 15mm,22,443000,9746000,Cash,Gudang AA5
+3,4/11/2024,Cemara Jaya,Pvc Board 5mm,30,146000,4380000,Piutang,Gudang AA5
+4,4/11/2024,Cemara Jaya,Pvc Board 12mm,30,327000,9810000,Piutang,Gudang AA5
+5,5/11/2024,Frame House,Pvc Board 8mm,3,240000,720000,Cash,Bilal
+6,5/11/2024,Cemara Jaya,Pvc Board 5mm,20,146000,2920000,Piutang,Gudang AA5
+7,5/11/2024,Cemara Jaya,Pvc Board 8mm,20,230000,4600000,Piutang,Gudang AA5
+8,5/11/2024,Cemara Jaya,Pvc Board 12mm,20,327000,6540000,Piutang,Gudang AA5
+9,5/11/2024,Cemara Jaya,Ply UT 5mm Kayu Alam,200,96000,19200000,Piutang,Gudang AA5
+10,7/11/2024,Cemara Jaya,Pvc Board 15mm,14,407000,5698000,Piutang,Gudang AA5
+11,7/11/2024,Cemara Jaya,Pvc Board 12mm,14,327000,4578000,Piutang,Gudang AA5
+12,7/11/2024,Cemara Jaya,Pvc Board 8mm,10,230000,2300000,Piutang,Gudang AA5
+13,7/11/2024,Cemara Jaya,Pvc Board 5mm,10,146000,1460000,Piutang,Gudang AA5
+14,8/11/2024,Cemara Jaya,Pvc Board 8mm,3,230000,690000,Piutang,Bilal
+15,9/11/2024,Cemara Jaya,Pvc Board 8mm,50,230000,11500000,Piutang,Gudang AA5
+16,9/11/2024,Hosana,Pvc Board 9mm,14,275000,3850000,Cash,Bilal
+17,9/11/2024,Hosana,Pvc Board 9mm,11,275000,3025000,Cash,Gudang AA5
+18,11/11/2024,Panglong Jasa Mulia,Pvc Board 3mm,3,105000,315000,Cash,Bilal
+19,12/11/2024,Tetap Jaya,Poly doff harimau 3mm,150,118000,17700000,Piutang,Gudang AA5
+20,13/11/2024,Panglong Simbai,Pvc Board 8mm,10,240000,2400000,Cash,Gudang AA5
+21,14/11/2024,Bapak Sayyed,Poly Kilat bangau 3mm,190,126000,23940000,Cash,Gudang AA5
+22,14/11/2024,Bapak Arifin,Pvc Board 3mm,1,105000,105000,Cash,Bilal
+23,16/11/2024,Mindo Jaya,Poly Kilat bangau 3mm,100,127000,12700000,Piutang,Gudang AA5
+24,18/11/2024,Toko Besi Sumber jaya ,BB kilat 18mm 1x,40,284000,11360000,Cash,Gudang AA5
+25,18/11/2024,Sinar Jaya Binjai,Pvc Board 9mm,10,275000,2750000,Cash,Bilal
+26,18/11/2024,Cemara Jaya,Pvc Board 8mm,15,230000,3450000,Piutang,Gudang AA5
+27,18/11/2024,Cemara Jaya,Pvc Board 12mm,15,327000,4905000,Piutang,Gudang AA5
+28,18/11/2024,Cemara Jaya,Pvc Board 15mm,13,407000,5291000,Piutang,Gudang AA5
+29,18/11/2024,Cemara Jaya,Pvc Board 8mm,35,230000,8050000,Piutang,Gudang AA5
+30,19/11/2024,Panglong Jasa Mulia,Pvc Board 3mm,3,105000,315000,Cash,Bilal
+31,20/11/2024,Usaha Baru,Pvc Board 12mm,1,380000,380000,Piutang,Bilal
+32,20/11/2024,Toko Besi Sumber jaya ,BB kilat 18mm 1x,10,284000,2840000,Cash,Gudang AA5
+33,20/11/2024,Toko Besi Sumber jaya ,BB kilat 18mm 2x,30,357000,10710000,Cash,Gudang AA5
+34,20/11/2024,Giat Profil,BB kilat 18mm 2x,15,351000,5265000,Piutang,Gudang AA5
+35,21/11/2024,Medan Jaya,BB kilat 18mm 1x,4,285000,1140000,Piutang,Gudang AA5
+36,21/11/2024,Medan Jaya,BB kilat 18mm 2x,16,358000,5728000,Piutang,Gudang AA5
+37,23/11/2024,Cemara Jaya,Pvc Board 12mm,15,323000,4845000,Piutang,Gudang AA5
+38,23/11/2024,Cemara Jaya,Pvc Board 15mm,5,405000,2025000,Piutang,Bilal
+39,23/11/2024,Cemara Jaya,Pvc Board 15mm,5,405000,2025000,Piutang,Gudang AA5
+40,23/11/2024,Giat Profil,BB kilat 18mm 1x,10,279000,2790000,Piutang,Gudang AA5
+41,23/11/2024,Giat Profil,BB kilat 18mm 2x,10,351000,3510000,Piutang,Gudang AA5
+42,26/11/2024,Cemara Jaya,Ply UT 5mm Kayu Alam,200,96000,19200000,Piutang,Gudang AA5
+43,26/11/2024,Cemara Jaya,Pvc Board 3mm,20,94000,1880000,Piutang,Gudang AA5
+44,26/11/2024,Cemara Jaya,Pvc Board 5mm,15,143000,2145000,Piutang,Gudang AA5
+45,26/11/2024,Cemara Jaya,Pvc Board 9mm,10,251000,2510000,Piutang,Gudang AA5
+46,28/11/2024,Hosana,Pvc Board 9mm,10,275000,2750000,Cash,Bilal
+47,29/11/2024,Hosana,Pvc Board 9mm,10,275000,2750000,Cash,Gudang AA5
+48,29/11/2024,Bapak Arifin,Pvc Board 3mm,1,105000,105000,Cash,Bilal
+49,30/11/2024,Cemara Jaya,Ply UT 5mm Kayu Alam,100,96000,9600000,Piutang,Gudang AA5
